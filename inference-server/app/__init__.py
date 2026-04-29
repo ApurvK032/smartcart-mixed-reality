@@ -1,0 +1,2 @@
+"""SmartCart laptop inference server."""
+

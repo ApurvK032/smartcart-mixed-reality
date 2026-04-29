@@ -1,0 +1,6 @@
+-r requirements.txt
+torch
+accelerate
+transformers>=4.55
+qwen-vl-utils
+
